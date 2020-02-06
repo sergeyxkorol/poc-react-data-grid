@@ -22,8 +22,7 @@ function App() {
       key: "id",
       name: "ID",
       frozen: true,
-      width: 40,
-      sortDescendingFirst: true
+      width: 40
     },
     {
       key: "first_name",
